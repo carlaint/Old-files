@@ -1,0 +1,49 @@
+Log
+
+9/26
+UNCTADstat.org
+* I downloaded the merchandise trade matrix - product groups, exports in thousands of dollars, annual, 1995- 2015
+* All countries, all products, year 2015
+
+
+9/27
+* Combined all csv files into one xlsx file
+* Made .do file to convert and create dta files
+
+************
+Summary  
+Merchandise trade matrix – product groups, exports in thousands of dollars, annual, 1995-2015
+ 	 
+ 	
+Title:		Merchandise trade matrix – product groups, exports in thousands of dollars, annual, 1995-2015
+Author:		UNCTAD
+Category:	International trade in goods and services
+Keywords:	International trade, structure, partner, economy, product, group
+ 	 
+Notes:
+ 	
+Description: 
+This table presents merchandise trade by trading partner and product based on SITC, Rev.3 commodity classification (the most detailed level is two digit), expressed in thousands of dollars. In addition, data are also summarized by geographical region and economic grouping, for both reporting country and its trading partner, and by product grouping.
+ 
+Source:
+UNCTAD secretariat calculations, based on UN DESA Statistics Division, UN COMTRADE; IMF, Direction of Trade Statistics; Eurostat, Statistics database; UNCTAD, UNCTADstat Merchandise Trade Indices; and UNCTAD, UNCTADstat Total Merchandise Trade
+ 
+Notes:
+The principal data source is UN DESA Statistics Division, UN COMTRADE which provides detailed raw trade data by partner and product. The source figures may be adjusted or complemented, when considered necessary.  Figures are estimated whenever possible to fill in the gaps in the absence of official data. The adjusted data or estimates are marked to differentiate them from the original data.
+ 
+To the extent possible, the attempt was made to distribute the reported figures for unknown partners or products to estimated partners or products. As a consequence, this matrix does not include unknown partners or products (SITC, Rev.3 code 93). In addition, the sum of individual partners and the sum of individual products for a reporter may not add-up to its (total) trade to the world and its (total) trade of all products, respectively. Nevertheless, for user convenience, the differences between total trade and all detailed products are shown as a product group Unallocated which might have negative value, due to accumulated rounding during the calculation at the most detailed level.
+ 
+As a consequence of the improved coverage of gold beginning in 2013/2014 in response to the OECD "Recommendation of the Council on Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas" of 25 May 2011 (C/MIN(2011)12/FINAL), the reported trade of gold as well as its share in the total trade may have significantly increased in many countries.
+ 
+Total trade figures in Merchandise Trade Matrix tables may differ from those reported in 'Values and shares of merchandise exports and imports' table (Trade trends) due to data discrepancies among their principal sources.
+
+Dimension	Items	Type	Description
+ECONOMY		375	Normal	ECONOMY
+PARTNER		379	Normal	PARTNER
+PRODUCT		123	Normal	SITC Rev3 PRODUCT
+YEAR		21	Normal	YEAR
+
+*******
+
+
+
